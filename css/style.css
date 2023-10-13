@@ -91,6 +91,10 @@ h1{
 	font-style: normal;
 	font-weight: 700;
 } 
+h3{
+	font-size: 30px;
+	letter-spacing: 2.25px;
+}
 .home-text h1{
 	margin-bottom: 150px;
 	border-bottom: #F2C94C 4px solid;
